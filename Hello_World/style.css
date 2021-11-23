@@ -1,0 +1,27 @@
+body {
+    overflow: hidden;   
+}
+
+.wrapper {
+    height: 100vh;
+    background-color: #ffe9cc;
+}
+
+.ball {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+    bottom: 0%;
+    left: calc(50% - 70px);
+    background-color: #bd6a00;
+    border-radius: 50%;
+}
+
+h1
+{
+  margin: 40% auto;
+  color: white;
+    text-align: center;
+
+}
